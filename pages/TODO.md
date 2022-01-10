@@ -1,0 +1,5 @@
+- TODO get relevant Futures PDFs from DuusAir onto OneDrive for student access
+	- only relevant, not all
+	- best way to access OneDrive on Mac?
+	- do I really want to install O/D on Mac?
+		- create dedicated folder with duplicate PDFs for O/D web upload?
